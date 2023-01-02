@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box ;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item img{
+    height:auto;
+}
+
+
+.card-body img{
+    width: 175px;
+    height: 144px;
+    margin-bottom: 10px;
+}
+.end {
+    background-color: rgb(11, 11, 11);
+    height: 50px;
+    text-align: center;
+}
+.bi-twitter:hover{
+    color: tomato;
+}
+.bi-facebook:hover{
+    color: tomato;
+}
+.bi-instagram:hover{
+    color: tomato;
+}
+.end1{
+    background-color: black;
+    color: white;
+}
+.btn2{
+    height: 45px;
+    width: 100px;
+    
+}
+
+.end1 input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline: none;
+    margin-top: 20px;
+}
+.end1 ::placeholder{
+    color: white;
+}
+
+.end1 p:hover{
+    color: yellowgreen;
+}
+.end1 h1:hover{
+    transform: scale(1.1);
+    color:orange;
+}
